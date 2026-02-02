@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+redis
+asyncio
+pydantic
+httpx
+streamlit
+requests
+google-generativeai
+python-dotenv
